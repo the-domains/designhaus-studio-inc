@@ -2,16 +2,21 @@
     <channel>
         <title><![CDATA[Designhaus Studio Inc]]></title>
         <description><![CDATA[Designhaus Studio Inc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/designhaus-studio-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 21:30:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 22:08:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/designhaus-studio-inc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52f8a73f-eda6-4bdd-a853-0723899fb3e4.JPG">]]></description>
-            <link>undefinedf8a46556-8cb8-43ce-b644-98cbbd6aa720/index.html</link>
+            <title><![CDATA[Altadore #2]]></title>
+            <description><![CDATA[<article><h1>Altadore #2</h1><p>The newest lavish home designed by Designhaus Studio brings
+the warmth and charm of a Craftsmen style home to the community of Altadore in
+South Calgary. This home features a
+classic antiqued brick façade with lap siding, and low sloped gables abundant in
+detail with the architectural trim & brackets.Numerous large windows allow for lots of
+natural lighting making this large home feel welcoming and cozy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7a84e388c1e11d4da74e5ffc7d3a9ec02aa8b42.jpg"></article>]]></description>
+            <link>https://thegrid.ai/designhaus-studio-inc/f8a46556-8cb8-43ce-b644-98cbbd6aa720/index.html</link>
             <guid isPermaLink="false">f8a46556-8cb8-43ce-b644-98cbbd6aa720</guid>
-            <pubDate>Mon, 29 Feb 2016 21:29:55 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 22:07:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
